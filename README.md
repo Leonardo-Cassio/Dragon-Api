@@ -1,5 +1,5 @@
 # 🐉 Dragon-Ball Api 🐉
-Este projeto é uma aplicação que consome uma API de Dragon Ball Z, permitindo que os usuários insiram um ID de personagem e escolham quais informações desejam visualizar por meio de checkboxes. As informações disponíveis incluem nome, ki, máximo de ki, raça, gênero, afiliação e planeta de origem do personagem.
+Este projeto é uma aplicação que consome uma API de Dragon Ball Z, permitindo que os usuários insiram um ID de personagem e escolham quais informações desejam visualizar por meio de checkboxes. As informações disponíveis incluem nome, ki, máximo de ki, raça, gênero, afiliação e planeta de origem do personagem. Ao clicar em pesquisar, o usuário terá acesso a uma imagem do personagem e as informações selecionadas.
 
 🌟 Funcionalidades:
 

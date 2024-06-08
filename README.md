@@ -27,7 +27,7 @@ Este projeto é uma aplicação que consome uma API de Dragon Ball Z, permitindo
 
 - Abra o arquivo index.html no seu navegador.
 
-- Insira o ID do personagem na caixa de texto.
+- Insira um ID do personagem na caixa de texto.
 
 - Selecione as informações desejadas marcando as checkboxes correspondentes.
 

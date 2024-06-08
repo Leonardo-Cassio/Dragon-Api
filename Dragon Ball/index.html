@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Dragon Ball - API</title>
+</head>
+
+<body>
+  <div class="fundo">
+    <form action="" method="get">
+      <div class="info">
+        <h1>Dragon Ball - API</h1>
+        <label for="characterId">ID da personagem:</label>
+        <input type="number" name="characterId" id="characterId">
+
+        <h2>Escolha as informações que deseja:</h2>
+
+        <div class="">
+          <button class="butao" type="button" id="btn-select-all">Selecionar Todos</button>
+        </div>
+
+        <div class="texto">
+          <label for="name">Nome</label>
+          <input type="checkbox" name="name" id="name">
+
+          <label for="ki">Ki</label>
+          <input type="checkbox" name="ki" id="ki">
+
+          <label for="maxKi">Max Ki</label>
+          <input type="checkbox" name="maxKi" id="maxKi">
+
+          <label for="race">Raça</label>
+          <input type="checkbox" name="race" id="race">
+
+          <label for="gender">Gênero</label>
+          <input type="checkbox" name="gender" id="gender">
+
+          <label for="affiliation">Afiliação</label>
+          <input type="checkbox" name="affiliation" id="affiliation">
+
+          <label for="originPlanet">Planeta de origem</label>
+          <input type="checkbox" name="originPlanet" id="originPlanet">
+        </div>
+      </div>
+
+      <button class="butao" type="submit" id="btn-go">Pesquisar</button>
+      <button class="butao" type="reset" id="btn-reset">Limpar</button>
+
+    </form>
+
+    <div id="result-style">
+      <img src="" alt="" id="img">
+      <div id="content"></div>
+    </div>
+
+  </div>
+
+</body>
+<script src="./index.js"></script>
+
+</html>

@@ -33,6 +33,10 @@ Este projeto é uma aplicação que consome uma API de Dragon Ball Z, permitindo
 
 - Clique no botão "Pesquisar" para buscar e exibir as informações selecionadas.
 
+### Vídeo da aplicação:
+
+https://github.com/Leonardo-Cassio/Dragon-Api/assets/143566209/ecd6bf88-d623-4a60-887d-4d63a9268f69
+
 ### 🛠️ Tecnologias Utilizadas
 - 📄 HTML
 - 🎨 CSS
